@@ -1,7 +1,7 @@
 # ricalinks
 Links to RICA Playlists
 
-[RICA Subtest One](https://youtube.com/playlist?list=PLqtE950p5U00ZOQNBrwHZiQ8nNMh0jh2l)<br />
+[RICA Subtest One](https://youtube.com/playlist?list=PLqtE950p5U00ZOQNBrwHZiQ8nNMh0jh2l){:target="_blank"}<br />
 [RICA Subtest Two](https://youtube.com/playlist?list=PLqtE950p5U014dxGmGn9_TyWsI38OjOYA)<br />
 [RICA Subtest Three](https://youtube.com/playlist?list=PLqtE950p5U01iuPxWmnotSGvASQ889_0f)<br />
 [RICA Case Studies](https://youtube.com/playlist?list=PLqtE950p5U021f4sfABXQpi26ZNuWuAqH)<br />
