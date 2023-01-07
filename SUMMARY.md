@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page One](README.md)
+* [Chris N Boosalis, Ph.D.](README.md)

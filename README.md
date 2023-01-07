@@ -1,8 +1,12 @@
 ---
-description: Links to the content on my UTub channel
+description: Links and Downloads
 ---
 
-# Page One
+# Chris N Boosalis, Ph.D.
+
+## Buy Me a Coffee
+
+&#x20;Like the lectures? I'd love a cup of coffee! https://www.buymeacoffee.com/distanceprep&#x20;
 
 ## Links to RICA Playlists
 
@@ -25,6 +29,34 @@ https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf
 ## Reading Instruction Scans
 
 https://ia802901.us.archive.org/view\_archive.php?archive=/5/items/VideoWorksheetPDFs/Video%20Worksheet%20PDFs.zip
+
+## Podcast Lectures
+
+Lectures on the go: https://distanceprep.podbean.com/&#x20;
+
+## Sample Tests that are Similar to RICA, CSET and CBEST
+
+02 Reading-instruction tutorials: https://goo.gl/kHHRe8&#x20;
+
+03 Practice-test tutorials: https://goo.gl/sqhepf&#x20;
+
+04 Free workbook: https://goo.gl/BGFo4y&#x20;
+
+05 Workbook: https://goo.gl/ToH7f3&#x20;
+
+06 RICA sample test https://goo.gl/kC9vnt&#x20;
+
+07 MTEL Reading foundations sample test: https://goo.gl/2Amura&#x20;
+
+08 CTCE Reading foundations sample test: https://goo.gl/y2cgqA&#x20;
+
+09 TEXES Reading Specialist sample test: https://goo.gl/E5L2Fg&#x20;
+
+10 ORLEA sample tests: https://goo.gl/AhHSXg
+
+Disclaimer While I wish that I could guarantee everyone's success, I cannot. These videos are here for educational purposes only: 17 U.S. Code § 110.
+
+FOR EDUCATIONAL PURPOSES ONLY. THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!! NEW:
 
 ## The Book I scribbled about RICA (It's nearly 20 years old, but people still like the content)
 
