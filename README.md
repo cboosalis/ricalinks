@@ -42,7 +42,7 @@ Lectures on the go: [https://distanceprep.podbean.com/ ](https://distanceprep.po
 
 04 Free workbook: [https://goo.gl/BGFo4y ](https://goo.gl/BGFo4y)
 
-05 Workbook: [https://goo.gl/ToH7f3 ](https://goo.gl/ToH7f3)
+05 Workbook: https://goo.gl/ToH7f3&#x20;
 
 06 RICA sample test [https://goo.gl/kC9vnt ](https://goo.gl/kC9vnt)
 
