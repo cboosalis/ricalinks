@@ -72,7 +72,8 @@ Disclaimer While I wish that I could guarantee everyone's success, I cannot. The
 
 ```html
 // Some code
-<div align="center">
+
+// <div align="center">
 
 Disclaimer While I wish that I could guarantee everyone's success, I cannot. 
 These videos are here for educational purposes only: 17 U.S. Code § 110.
