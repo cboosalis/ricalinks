@@ -68,11 +68,22 @@ Best of luck, Chris B.
 
 
 
-Disclaimer While I wish that I could guarantee everyone's success, I cannot.&#x20;
+Disclaimer While I wish that I could guarantee everyone's success, I cannot. These videos are here for educational purposes only: 17 U.S. Code § 110. FOR EDUCATIONAL PURPOSES ONLY. THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!
 
+```html
+// Some code
+<div align="center">
+
+Disclaimer While I wish that I could guarantee everyone's success, I cannot. 
 These videos are here for educational purposes only: 17 U.S. Code § 110.
+FOR EDUCATIONAL PURPOSES ONLY. 
+THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!!
 
-FOR EDUCATIONAL PURPOSES ONLY.&#x20;
+</div>
 
-THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!! NEW:
+```
+
+``
+
+``
 
