@@ -54,9 +54,7 @@ Lectures on the go: [https://distanceprep.podbean.com/ ](https://distanceprep.po
 
 10 ORLEA sample tests: [https://goo.gl/AhHSXg](https://goo.gl/AhHSXg)
 
-Disclaimer While I wish that I could guarantee everyone's success, I cannot. These videos are here for educational purposes only: 17 U.S. Code § 110.
 
-FOR EDUCATIONAL PURPOSES ONLY. THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!! NEW:
 
 ## The Book I scribbled about RICA (It's nearly 20 years old, but people still like the content)
 
@@ -64,6 +62,17 @@ FOR EDUCATIONAL PURPOSES ONLY. THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .
 
 The notebook is dated, and I compiled it from various websites in the public domain. The content is presented for academic purposes only. The pages mostly line up with the videos, but I lost the original one that I made several hard drives ago. I just happened to find this one by luck.
 
-Remember that no guarantee of success accompanies your reading or viewing experience.
+
 
 Best of luck, Chris B.
+
+\[align center]
+
+Disclaimer While I wish that I could guarantee everyone's success, I cannot.&#x20;
+
+These videos are here for educational purposes only: 17 U.S. Code § 110.
+
+FOR EDUCATIONAL PURPOSES ONLY.&#x20;
+
+THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!! NEW:
+
