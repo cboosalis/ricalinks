@@ -44,7 +44,7 @@ Lectures on the go: [https://distanceprep.podbean.com/ ](https://distanceprep.po
 
 05 Workbook: [https://goo.gl/ToH7f3 ](https://goo.gl/ToH7f3)
 
-06 RICA sample test https://goo.gl/kC9vnt&#x20;
+06 RICA sample test [https://goo.gl/kC9vnt ](https://goo.gl/kC9vnt)
 
 07 MTEL Reading foundations sample test: [https://goo.gl/2Amura ](https://goo.gl/2Amura)
 
