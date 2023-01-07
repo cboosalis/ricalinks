@@ -66,7 +66,7 @@ The notebook is dated, and I compiled it from various websites in the public dom
 
 Best of luck, Chris B.
 
-\[align center]
+
 
 Disclaimer While I wish that I could guarantee everyone's success, I cannot.&#x20;
 
