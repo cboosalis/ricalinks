@@ -70,28 +70,20 @@ Best of luck, Chris B.
 
 Disclaimer While I wish that I could guarantee everyone's success, I cannot. These videos are here for educational purposes only: 17 U.S. Code § 110. FOR EDUCATIONAL PURPOSES ONLY. THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!
 
-```html
-// Some code
+<pre class="language-html"><code class="lang-html">/<a data-footnote-ref href="#user-content-fn-1">/ DISCLAIMER</a>
+While I wish that I could guarantee everyone's success, I cannot. 
 
-// <div align="center">
-
-Disclaimer While I wish that I could guarantee everyone's success, I cannot. 
 These videos are here for educational purposes only: 17 U.S. Code § 110.
+
 FOR EDUCATIONAL PURPOSES ONLY. 
+
 THANK YOU PIERRE P. FOR THE SCREEN CAPTURES AND .PDF!!
+</code></pre>
 
-</div>
 
-<html>
-   <body>
-      <p><center>Welcome to TutorialsPoint</center></p>
-      <p>The Best E-Way learning.</p>
-   </body>
-</html>
-
-```
 
 ``
 
-``
 
+
+[^1]: 
