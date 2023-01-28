@@ -6,31 +6,35 @@ description: Links and Downloads
 
 ## Buy Me a Coffee - Support our Fosters
 
-## &#x20;[https://www.buymeacoffee.com/distanceprep](https://www.buymeacoffee.com/distanceprep)&#x20;
+&#x20;[https://www.buymeacoffee.com/distanceprep](https://www.buymeacoffee.com/distanceprep)&#x20;
 
-## Links to RICA Playlists
+## Reading Instruction Workbooks
+
+[https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf](https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf)
+
+[https://ia802901.us.archive.org/view\_archive.php?archive=/5/items/VideoWorksheetPDFs/Video%20Worksheet%20PDFs.zip](https://ia802901.us.archive.org/view\_archive.php?archive=/5/items/VideoWorksheetPDFs/Video%20Worksheet%20PDFs.zip)
+
+## RICA Subtest Playlists
 
 [RICA Subtest One](https://youtube.com/playlist?list=PLqtE950p5U00ZOQNBrwHZiQ8nNMh0jh2l)\
 [RICA Subtest Two](https://youtube.com/playlist?list=PLqtE950p5U014dxGmGn9\_TyWsI38OjOYA)\
-[RICA Subtest Three](https://youtube.com/playlist?list=PLqtE950p5U01iuPxWmnotSGvASQ889\_0f)\
+[RICA Subtest Three](https://youtube.com/playlist?list=PLqtE950p5U01iuPxWmnotSGvASQ889\_0f)
+
+## Other RICA Playlists
+
 [RICA Case Studies](https://youtube.com/playlist?list=PLqtE950p5U021f4sfABXQpi26ZNuWuAqH)\
 [RICA Short Answers](https://youtube.com/playlist?list=PLqtE950p5U00JkXFbzUkloBHtFeMCT7KW)\
 [RICA Practice Tests](https://youtube.com/playlist?list=PLqtE950p5U03B3etj5iih1xl3XsakvXCm)\
-[RICA help Sessions](https://youtube.com/playlist?list=PLqtE950p5U0300YlAeGC4-MORy4I1bClT)\
+[RICA help Sessions](https://youtube.com/playlist?list=PLqtE950p5U0300YlAeGC4-MORy4I1bClT)
+
+## CBEST and CSET Playlists
+
 [CSET Language Arts](https://www.youtube.com/playlist?list=PLqtE950p5U03rxVdHKL67uEw2QUq6NMbI)\
 [CSET Math](https://youtube.com/playlist?list=PLqtE950p5U00ffRyIrytww81ZEC4veY66)\
 [CBEST/CSET Writing](https://www.youtube.com/playlist?list=PL54CA0C8AF85F2857)\
 [CBEST/CSET Reading](https://www.youtube.com/playlist?list=PL54CA0C8AF85F2857)
 
-## Reading Instruction Workbook
-
-[https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf](https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf)
-
-## Reading Instruction Scans
-
-[https://ia802901.us.archive.org/view\_archive.php?archive=/5/items/VideoWorksheetPDFs/Video%20Worksheet%20PDFs.zip](https://ia802901.us.archive.org/view\_archive.php?archive=/5/items/VideoWorksheetPDFs/Video%20Worksheet%20PDFs.zip)
-
-## Podcast Lectures
+## RICA Podcast Lectures
 
 Lectures on the go: [https://distanceprep.podbean.com/ ](https://distanceprep.podbean.com/)
 
